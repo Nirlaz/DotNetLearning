@@ -1,0 +1,14 @@
+C:\Users\N!RLAZ\source\repos\RockPaperSessiorDi\RockPaperSessiorDi\bin\Debug\net8.0\RockPaperSessiorDi.exe
+C:\Users\N!RLAZ\source\repos\RockPaperSessiorDi\RockPaperSessiorDi\bin\Debug\net8.0\RockPaperSessiorDi.deps.json
+C:\Users\N!RLAZ\source\repos\RockPaperSessiorDi\RockPaperSessiorDi\bin\Debug\net8.0\RockPaperSessiorDi.runtimeconfig.json
+C:\Users\N!RLAZ\source\repos\RockPaperSessiorDi\RockPaperSessiorDi\bin\Debug\net8.0\RockPaperSessiorDi.dll
+C:\Users\N!RLAZ\source\repos\RockPaperSessiorDi\RockPaperSessiorDi\bin\Debug\net8.0\RockPaperSessiorDi.pdb
+C:\Users\N!RLAZ\source\repos\RockPaperSessiorDi\RockPaperSessiorDi\obj\Debug\net8.0\RockPaperSessiorDi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\N!RLAZ\source\repos\RockPaperSessiorDi\RockPaperSessiorDi\obj\Debug\net8.0\RockPaperSessiorDi.AssemblyInfoInputs.cache
+C:\Users\N!RLAZ\source\repos\RockPaperSessiorDi\RockPaperSessiorDi\obj\Debug\net8.0\RockPaperSessiorDi.AssemblyInfo.cs
+C:\Users\N!RLAZ\source\repos\RockPaperSessiorDi\RockPaperSessiorDi\obj\Debug\net8.0\RockPaperSessiorDi.csproj.CoreCompileInputs.cache
+C:\Users\N!RLAZ\source\repos\RockPaperSessiorDi\RockPaperSessiorDi\obj\Debug\net8.0\RockPaperSessiorDi.dll
+C:\Users\N!RLAZ\source\repos\RockPaperSessiorDi\RockPaperSessiorDi\obj\Debug\net8.0\refint\RockPaperSessiorDi.dll
+C:\Users\N!RLAZ\source\repos\RockPaperSessiorDi\RockPaperSessiorDi\obj\Debug\net8.0\RockPaperSessiorDi.pdb
+C:\Users\N!RLAZ\source\repos\RockPaperSessiorDi\RockPaperSessiorDi\obj\Debug\net8.0\RockPaperSessiorDi.genruntimeconfig.cache
+C:\Users\N!RLAZ\source\repos\RockPaperSessiorDi\RockPaperSessiorDi\obj\Debug\net8.0\ref\RockPaperSessiorDi.dll
